@@ -1,0 +1,403 @@
+.cblogo{
+width: 100px;
+height: 90px;
+float: left;
+}
+.clear{
+    clear:left;
+}
+
+
+
+a{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+body{
+    background-image: url(galaxyGIFWHITE.gif);
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    }
+
+#pg1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    font-size: large;
+
+}
+#pg2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    font-size: large;
+
+}
+#hg1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: seagreen;
+    font-size: xx-large;
+
+}
+#hg2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:seagreen;
+    font-size: xx-large;
+
+} 
+#pg3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    font-size: large;
+
+}
+#hg3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:seagreen;
+    font-size: xx-large;
+
+} 
+#baby-photo{
+    width: 130px;
+    height: 200px;
+    border-radius: 20%;
+    border-style: groove;
+    border-color: aqua;
+}
+#beach{
+    width: 200px;
+    height: 200px;
+    border-color:cornflowerblue;
+    border-style: groove;
+    border-radius: 20%;
+    border-inline:initial;
+
+    #beachModal {width: 150px;
+    height: 150px;
+    }
+
+}
+#madden{
+    width: 200px;
+    height: 200px;
+    border-color:rgb(0, 152, 176);
+    border-style: groove;
+    border-radius: 20%;
+    border-inline:initial;
+}
+#bball{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    border-color:  green;
+    border-inline:initial;
+    border-style:groove;
+
+}
+#tiktok{
+    width: 200px;
+    height: 200px;
+    border-color:hotpink;
+    border-style: groove;
+    border-radius: 20%;
+    border-inline:initial;
+}
+#roblox{
+    width: 200px;
+    height: 200px;
+    border-color:grey;
+    border-style: groove;
+    border-radius: 20%;
+    border-inline:initial;
+}
+#kanye{
+    width: 200px;
+    height: 200px;
+    border-color:red;
+    border-style: groove;
+    border-radius: 20%;
+    border-inline:initial;
+}
+#goten{
+    width: 200px;
+    height: 200px;
+    border-color:yellow;
+    border-style: groove;
+    border-radius: 20%;
+    border-inline:initial;
+
+}
+#hg4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: sandybrown;
+    font-size: xx-large;
+
+} 
+.modal{
+    display: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: #000;
+    background-color: rgb(0, 0, 0, 0.9);
+}
+
+.modal-content{
+    width: 80%;
+    max-width: 700px;
+    margin: auto;
+    display: block;
+
+}
+#caption1, #caption2, #caption3, #caption4, #caption5, #caption6, #caption7{
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #fff;
+    padding: 10px 0;
+    height: 150px;
+}
+#traveltext{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    font-size:xx-large;
+    text-align: center;
+}
+#ptrav{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    font-size: xx-medium;
+    padding-bottom:200px;
+    text-align: center;
+}
+#gamingtext{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    font-size:xx-large;
+    text-align: center;
+}
+#pgame{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    font-size: xx-medium;
+    padding-bottom:200px;
+    text-align: center;
+}
+#fn{
+    width: 400px;
+    height: 250px;
+    border-color:#4F2683
+   border-style: groove;
+   border-radius: 20%;
+   border-inline:initial;
+}
+#twok{
+   width: 410px;
+   height: 250px;
+   border-color: #fff;
+  border-style: groove;
+  border-radius: 20%;
+  border-inline:initial;
+  
+}
+#sportstext{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    font-size:xx-large;
+    text-align: center;
+}
+#psports{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    font-size: xx-medium;
+    padding-bottom:200px;
+    text-align: center;
+}
+
+#dolfins{
+    width: 400px;
+    height: 250px;
+    border-color:#4F2683
+   border-style: groove;
+   border-radius: 20%;
+   border-inline:initial;
+}
+#dolphins{
+   width: 410px;
+   height: 250px;
+   border-color: #fff;
+  border-style: groove;
+  border-radius: 20%;
+  border-inline:initial;
+}
+#tttext{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    font-size:xx-large;
+    text-align: center;
+}
+p#ptt{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    font-size: xx-medium;
+    padding-bottom:200px;
+    text-align: center;
+}
+#rblxtext{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    font-size:xx-large;
+    text-align: center;
+}
+p#rblx{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    font-size: xx-medium;
+    padding-bottom:200px;
+    text-align: center;
+}
+#jerseypic{
+     width: 400px;
+     height: 300px;
+     border-color:#4F2683
+    border-style: groove;
+    border-radius: 20%;
+    border-inline:initial;
+}
+#jerseypic2{
+    width: 410px;
+    height: 300px;
+    border-color: #fff;
+   border-style: groove;
+   border-radius: 20%;
+   border-inline:initial;
+}
+#mbdtf{
+    width: 400px;
+    height: 300px;
+    border-color:#4F2683
+   border-style: groove;
+   border-radius: 20%;
+   border-inline:initial;
+}
+#tcd{
+   width: 410px;
+   height: 300px;
+   border-color: #fff;
+  border-style: groove;
+  border-radius: 20%;
+  border-inline:initial;
+}
+#yetext{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    font-size:xx-large;
+    text-align: center;
+}
+p#pye{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    font-size: xx-medium;
+    padding-bottom:200px;
+    text-align: center;
+}
+#dbz{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    font-size:xx-large;
+    text-align: center;
+}
+#db{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    font-size: xx-medium;
+    padding-bottom:200px;
+    text-align: center;
+}
+#beer{
+    width: 400px;
+    height: 300px;
+    border-color:#4F2683
+   border-style: groove;
+   border-radius: 20%;
+   border-inline:initial;
+}
+#vegeta{
+   width: 410px;
+   height: 300px;
+   border-color: #fff;
+  border-style: groove;
+  border-radius: 20%;
+  border-inline:initial;
+}
+
+
+
+.modal-content #caption1, #caption2, #caption3, #caption4, #caption5, #caption6, #caption7{
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+@-webkit-keyframes zoom{
+    from{-webkit-transform:scale(0)}
+    to {-webkit-transform: scale(1)}
+}
+@keyframes zoom{
+    from{transform:scale(0)}
+    to {transform:scale(1)}
+}
+
+.close{
+    color:dodgerblue;
+    font-size: 26px;
+    font-weight: bold;
+    position: absolute;
+    transition: 0.3s;
+}
+
+.close:hover
+.close:focus{
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+#beach, #madden, #bball, #tiktok, #roblox, #kanye, #goten{
+    cursor: pointer;
+    transition: 0.4s;
+}
+#beach:hover{
+    opacity: 0.7;
+}
+#madden:hover{
+    opacity: 0.7;
+}
+#bball:hover{
+    opacity: 0.7;
+}
+#tiktok:hover{
+    opacity: 0.7;
+}
+#roblox:hover{
+    opacity: 0.7;
+}
+#kanye:hover{
+    opacity: 0.7;
+}
+#goten:hover{
+    opacity: 0.7;
+}
+.gallery{
+    justify-content: space-between;
+    display: block;
+    width: 100%;
+}
+.gallery img{
+    float: left;
+}
